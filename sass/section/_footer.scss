@@ -1,0 +1,29 @@
+.footer {
+    padding-top: 60px;
+    padding-bottom: 50px;
+    font-family: 'Raleway';
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    background: #2D343C;
+}
+
+.footer-info__list {
+    li {
+        margin-bottom: 15px;
+    }
+}
+
+.footer-contacts__list {
+
+    li {
+        margin-bottom: 15px;
+    }
+
+    .email-color {
+        font-weight: bold;
+        font-size: 14px;
+        letter-spacing: 0.05em;
+        color: #D4C17F;
+    }
+}
